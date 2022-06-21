@@ -5,7 +5,7 @@ It was created becase I found a lot of RSE resouces from different groups.
 
 ## List of reseach software engineering resources for anyone interested.
 
-### <b>Communities:</b> 🧑‍🤝‍🧑: 
+### <b>Communities</b> 🧑‍🤝‍🧑
 * [RSE GitHub](https://rseng.github.io)
 * [RSE toolkit](https://rsetoolkit.github.io)
 * [Society of Research Software Engieering](https://society-rse.org)
@@ -17,16 +17,16 @@ It was created becase I found a lot of RSE resouces from different groups.
 ### <b>Measuring RSE Success (dubious)</b>
 * [Community Health Analytics Open Source Software - CHAOSS](https://chaoss.community/metrics/)
 
-### <b>Blogs</b>
+### <b>Blogs</b> 📙
 * [Software Sustainability Institute Blogs](https://www.software.ac.uk/blog/)
 
-### <b>Courses</b>
+### <b>Courses</b> 📑
 * [The Carpentries lessons](https://carpentries.org/community-lessons/)
 * [Milliams @ Bristol](https://milliams.com/courses/)
 * [Christopher Woods](https://chryswoods.com/main/courses.html)
 * [Merely Useful](https://merely-useful.tech/py-rse/)
 
-### <b>Data Science and RSE</b>
+### <b>Data Science and RSE</b> 📊 🧪
 * [The Alan Turing Institute: Introduction to Research Data Science course](https://alan-turing-institute.github.io/rds-course/index.html)
 
 ### <b>Beginner Courses</b>
