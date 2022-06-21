@@ -1,8 +1,12 @@
-## research-software-engineering-resources
+# research-software-engineering-resources
+A collection of links and resources that point to work related to Research Software Engineering. 
 
-List of reseache software engineering resources for anyone interested.
+## List of reseache software engineering resources for anyone interested.
 
-Communities: https://rseng.github.io https://rsetoolkit.github.io https://society-rse.org
+<b>Communities</b> : 
+[RSE GitHub](https://rseng.github.io)
+[RSE toolkit](https://rsetoolkit.github.io)
+[Society of Research Software Engieering](https://society-rse.org)
 
 Software Sustainability Institute https://www.software.ac.uk
 
