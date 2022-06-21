@@ -12,6 +12,7 @@ It was created becase I found a lot of RSE resouces from different groups.
 * [Software Sustainability Institute](https://www.software.ac.uk)
 * [Princeton RSE](https://researchcomputing.princeton.edu/services/research-software-engineering)
 * [University of Bristol RSE](https://bristol.ac.uk/acrc/research-software-engineering/training/)
+* [Engineering for Researchers PyTorch Lightning](https://www.pytorchlightning.ai/edu/engineering-class)
 
 ### <b>Measuring RSE Success (dubious)</b>
 * [Community Health Analytics Open Source Software - CHAOSS](https://chaoss.community/metrics/)
