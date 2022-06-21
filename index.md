@@ -3,56 +3,63 @@ A collection of links and resources that point to work related to Research Softw
 
 ## List of reseache software engineering resources for anyone interested.
 
-<b>Communities</b> : 
-[RSE GitHub](https://rseng.github.io)
-[RSE toolkit](https://rsetoolkit.github.io)
-[Society of Research Software Engieering](https://society-rse.org)
+<b>Communities:</b> 🧑‍🤝‍🧑: 
+* [RSE GitHub](https://rseng.github.io)
+* [RSE toolkit](https://rsetoolkit.github.io)
+* [Society of Research Software Engieering](https://society-rse.org)
+* [Software Sustainability Institute](https://www.software.ac.uk)
+* [Princeton RSE](https://researchcomputing.princeton.edu/services/research-software-engineering)
+* [University of Bristol RSE](https://bristol.ac.uk/acrc/research-software-engineering/training/)
 
-Software Sustainability Institute https://www.software.ac.uk
+<b>Measuring RSE Success (dubious)</b>
+* [Community Health Analytics Open Source Software - CHAOSS](https://chaoss.community/metrics/)
 
-Princeton RSE group: https://researchcomputing.princeton.edu/services/research-software-engineering
+<b>Blogs</b>
+* [Software Sustainability Institute Blogs](https://www.software.ac.uk/blog/)
 
-Measuring RSE Success (dubious): https://chaoss.community/metrics/
+<b>Courses</b>
+* [The Carpentries lessons](https://carpentries.org/community-lessons/)
+* [Milliams @ Bristol](https://milliams.com/courses/)
+* [Christopher Woods](https://chryswoods.com/main/courses.html)
+* [Merely Useful](https://merely-useful.tech/py-rse/)
 
-Blogs: https://www.software.ac.uk/blog/
+<b>Data Science and RSE</b>
+* [The Alan Turing Institute: Introduction to Research Data Science course](https://alan-turing-institute.github.io/rds-course/index.html)
 
-Courses: The Carpentries: https://carpentries.org/community-lessons/
+<b>Beginner Courses</b>
+* [Introduction to RSE course by The Alan Turing Institute](https://alan-turing-institute.github.io/rse-course/html/course_prerequisites/index.html#)
+* [Research Software Engineering with Python](http://rits.github-pages.ucl.ac.uk/research-se-python/)
+* [UCL RSE Course](https://github-pages.ucl.ac.uk/rsd-engineeringcourse/ch00python/)
 
-The Alan Turing Institute: Introduction to Research Data Science course. https://alan-turing-institute.github.io/rds-course/index.html
+<b>Intermediate Research Software Engineering</b>
+* [Carpentries Intermediate Researcher Software Development in Python](https://carpentries-incubator.github.io/python-intermediate-development/)
 
-The Turning Way: https://the-turing-way.netlify.app/welcome.html
+<b>Version Control</b> Git, different to GitHub and GitLab Software: https://git-scm.com Turing introduction to version control: https://the-turing-
+* [The Turing Way on Version Control](way.netlify.app/reproducible-research/vcs.html)
 
-Milliams @ Bristol https://milliams.com/courses/
+<b>Licensing</b> 
+* [The Turing Way on Licensing](https://the-turing-way.netlify.app/reproducible-research/licensing.html)
 
-Bristol: https://bristol.ac.uk/acrc/research-software-engineering/training/
+<b>Research Data Management</b>
+* [The Turing Way on Data Management](https://the-turing-way.netlify.app/reproducible-research/rdm.html)
 
-Christopher Woods@ Bristol https://chryswoods.com/main/courses.html
+<b>Reproducible Environments</b>
+* [The Turing Way on Reproducible Environments](https://the-turing-way.netlify.app/reproducible-research/renv.html)
 
-Beginner: Introduction to RSE course by The Alan Turing Institute https://alan-turing-institute.github.io/rse-course/html/course_prerequisites/index.html#
+<b>Code Quality</b>
+* [The Turing Way on Code Quality](https://the-turing-way.netlify.app/reproducible-research/code-quality.html)
 
-Research Software Engineering with Python: http://rits.github-pages.ucl.ac.uk/research-se-python/ https://github-pages.ucl.ac.uk/rsd-engineeringcourse/ch00python/
+<b>Code Testing</b>
+* [The Turing Way on Code Testing](https://the-turing-way.netlify.app/reproducible-research/testing.html)
+* [Carpentries on Testing](https://carpentries-incubator.github.io/python-testing/)
 
-Merely useful https://merely-useful.tech/py-rse/
+<b>Code Reviewing Process</b>
+* [The Turing Way on Code Reviews](https://the-turing-way.netlify.app/reproducible-research/reviewing.html)
 
-Version Control: Git, different to GitHub and GitLab Software: https://git-scm.com Turing introduction to version control: https://the-turing-way.netlify.app/reproducible-research/vcs.html
+<b>Continuous Integration</b>
+* [The Turing Way on CI](https://the-turing-way.netlify.app/reproducible-research/ci.html)
+* [Carpentries on CI](https://carpentries-incubator.github.io/python-testing/)
 
-Licensing: https://the-turing-way.netlify.app/reproducible-research/licensing.html
-
-Research Data Management: https://the-turing-way.netlify.app/reproducible-research/rdm.html
-
-Reproducible Environments: https://the-turing-way.netlify.app/reproducible-research/renv.html
-
-Code Quality: https://the-turing-way.netlify.app/reproducible-research/code-quality.html
-
-Code Testing: https://the-turing-way.netlify.app/reproducible-research/testing.html
-
-https://carpentries-incubator.github.io/python-testing/
-
-Code Reviewing Process: https://the-turing-way.netlify.app/reproducible-research/reviewing.html
-
-Continuous Integration: https://the-turing-way.netlify.app/reproducible-research/ci.html https://carpentries-incubator.github.io/python-testing/
-
-Intermediate Research Software Engineering: Intermediate Researcher Software Development in Python: https://carpentries-incubator.github.io/python-intermediate-development/
 
 
 
