@@ -3,9 +3,6 @@
 The [Github Page](https://zwelshman.github.io/research-software-engineering-resources/) for this repo contains potentially useful resources about RSE.
 It was created becase I found a lot of RSE resouces from different groups. 
 
-# research-software-engineering-resources
-A collection of links and resources that point to work related to Research Software Engineering. 
-
 ## List of reseache software engineering resources for anyone interested.
 
 <b>Communities:</b> 🧑‍🤝‍🧑: 
