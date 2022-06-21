@@ -5,7 +5,7 @@ It was created becase I found a lot of RSE resouces from different groups.
 
 ## List of reseach software engineering resources for anyone interested.
 
-### <b>Communities</b> 🧑‍🤝‍🧑
+### <b>Communities</b> 🤝‍
 * [RSE GitHub](https://rseng.github.io)
 * [RSE toolkit](https://rsetoolkit.github.io)
 * [Society of Research Software Engieering](https://society-rse.org)
