@@ -41,6 +41,7 @@ It was created because I found a lot of RSE resouces from different groups.
 ### <b>Version Control</b> 
 * [Git Webpage](https://git-scm.com)
 * [The Turing Way on Version Control](way.netlify.app/reproducible-research/vcs.html)
+* [Lightning AI on Version Control](https://github.com/Lightning-AI/engineering-class/blob/main/ep06-git-basics/Ep06-ShowNotes.md)
 
 ### <b>Licensing</b> 
 * [The Turing Way on Licensing](https://the-turing-way.netlify.app/reproducible-research/licensing.html)
@@ -52,6 +53,7 @@ It was created because I found a lot of RSE resouces from different groups.
 
 ### <b>Reproducible Environments</b>
 * [The Turing Way on Reproducible Environments](https://the-turing-way.netlify.app/reproducible-research/renv.html)
+* [Lightning AI on Environments](https://github.com/Lightning-AI/engineering-class/blob/main/ep03-environments/Ep03-ShowNotes.md)
 
 ### <b>Code Quality</b>
 * [The Turing Way on Code Quality](https://the-turing-way.netlify.app/reproducible-research/code-quality.html)
@@ -66,3 +68,6 @@ It was created because I found a lot of RSE resouces from different groups.
 ### <b>Continuous Integration</b>
 * [The Turing Way on CI](https://the-turing-way.netlify.app/reproducible-research/ci.html)
 * [Carpentries on CI](https://carpentries-incubator.github.io/python-testing/)
+
+### <b>Debugging</b>
+* [Lightning AI on Debugging](https://github.com/Lightning-AI/engineering-class/blob/main/ep05-debugging/Ep05-ShowNotes.md)
