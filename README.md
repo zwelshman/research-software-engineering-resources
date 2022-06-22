@@ -44,6 +44,7 @@ It was created because I found a lot of RSE resouces from different groups.
 ### <b>Licensing</b> 
 * [The Turing Way on Licensing](https://the-turing-way.netlify.app/reproducible-research/licensing.html)
 * [Software Sustainability Institute on Licensing](https://www.software.ac.uk/resources/guides/choosing-open-source-licence)
+* [Choose a License](https://choosealicense.com)
 
 ### <b>Research Data Management</b>
 * [The Turing Way on Data Management](https://the-turing-way.netlify.app/reproducible-research/rdm.html)
