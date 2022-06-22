@@ -27,6 +27,7 @@ It was created because I found a lot of RSE resouces from different groups.
 * [Christopher Woods](https://chryswoods.com/main/courses.html)
 * [Merely Useful](https://merely-useful.tech/py-rse/)
 * [Essential Software Engineer for Reseachers Imperial College London](https://imperialcollegelondon.github.io/grad_school_software_engineering_course/)
+* [R, Open Research, and Reproducibility, Andrew Stewart](https://r-openresearch-reproducibility.netlify.app)
 
 ### <b>Data Science and RSE</b> 📊 🧪
 * [The Alan Turing Institute: Introduction to Research Data Science course](https://alan-turing-institute.github.io/rds-course/index.html)
