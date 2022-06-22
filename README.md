@@ -9,6 +9,7 @@ It was created because I found a lot of RSE resouces from different groups.
 * [RSE GitHub](https://rseng.github.io)
 * [RSE toolkit](https://rsetoolkit.github.io)
 * [Society of Research Software Engieering](https://society-rse.org)
+* [Society of Research Software Engieering Resources](https://society-rse.org/resources-database/)
 * [Software Sustainability Institute](https://www.software.ac.uk)
 * [Princeton RSE](https://researchcomputing.princeton.edu/services/research-software-engineering)
 * [University of Bristol RSE](https://bristol.ac.uk/acrc/research-software-engineering/training/)
