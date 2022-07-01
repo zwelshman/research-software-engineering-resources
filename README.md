@@ -5,6 +5,8 @@ It was created because I found a lot of RSE resouces from different groups.
 
 ## List of reseach software engineering resources for anyone interested.
 
+## Python 🐍
+
 ### <b>Communities</b> 🤝‍
 * [RSE GitHub](https://rseng.github.io)
 * [RSE toolkit](https://rsetoolkit.github.io)
@@ -27,7 +29,6 @@ It was created because I found a lot of RSE resouces from different groups.
 * [Christopher Woods](https://chryswoods.com/main/courses.html)
 * [Merely Useful](https://merely-useful.tech/py-rse/)
 * [Essential Software Engineer for Reseachers Imperial College London](https://imperialcollegelondon.github.io/grad_school_software_engineering_course/)
-* [R, Open Research, and Reproducibility, Andrew Stewart](https://r-openresearch-reproducibility.netlify.app)
 * [Bristol RSE Courses merged](https://bristol.ac.uk/acrc/research-software-engineering/training/)
 
 ### <b>Data Science and RSE</b> 📊 🧪
@@ -75,3 +76,17 @@ It was created because I found a lot of RSE resouces from different groups.
 
 ### <b>Debugging</b>
 * [Lightning AI on Debugging](https://github.com/Lightning-AI/engineering-class/blob/main/ep05-debugging/Ep05-ShowNotes.md)
+
+
+## R
+
+### <b>Communities</b>
+
+### <b>Beginner</b>
+* [RStudio - What is data wrangling? Intro, Motivation, Outline, Setup -- Pt. 1 Data Wrangling Introduction](https://www.youtube.com/watch?v=jOd65mR1zfw)
+* [RStudio - Tidy Data and tidyr -- Pt 2 Intro to Data Wrangling with R and the Tidyverse](https://www.youtube.com/watch?v=1ELALQlO-yM)
+
+### <b>Courses</b> 📑
+* [R, Open Research, and Reproducibility, Andrew Stewart](https://r-openresearch-reproducibility.netlify.app)
+
+
