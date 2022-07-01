@@ -85,6 +85,7 @@ It was created because I found a lot of RSE resouces from different groups.
 ### <b>Beginner</b>
 * [RStudio - What is data wrangling? Intro, Motivation, Outline, Setup -- Pt. 1 Data Wrangling Introduction](https://www.youtube.com/watch?v=jOd65mR1zfw)
 * [RStudio - Tidy Data and tidyr -- Pt 2 Intro to Data Wrangling with R and the Tidyverse](https://www.youtube.com/watch?v=1ELALQlO-yM)
+* [Data Manipulation Tools: dplyr -- Pt 3 Intro to the Grammar of Data Manipulation with R](https://www.youtube.com/watch?v=Zc_ufg4uW4U)
 
 ### <b>Courses</b> 📑
 * [R, Open Research, and Reproducibility, Andrew Stewart](https://r-openresearch-reproducibility.netlify.app)
