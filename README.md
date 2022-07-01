@@ -89,4 +89,5 @@ It was created because I found a lot of RSE resouces from different groups.
 ### <b>Courses</b> 📑
 * [R, Open Research, and Reproducibility, Andrew Stewart](https://r-openresearch-reproducibility.netlify.app)
 
-
+### <b>Cheat Sheets in R</b> 🦥
+* [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
