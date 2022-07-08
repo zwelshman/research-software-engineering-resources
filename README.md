@@ -93,3 +93,4 @@ It was created because I found a lot of RSE resouces from different groups.
 
 ### <b>Cheat Sheets in R</b> 🦥
 * [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+* [Missingness using Naniar](https://cran.r-project.org/web/packages/naniar/vignettes/naniar-visualisation.html)
