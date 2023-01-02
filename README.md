@@ -44,7 +44,7 @@ It was created because I found a lot of RSE resouces from different groups.
 
 ### <b>Version Control</b> 
 * [Git Webpage](https://git-scm.com)
-* [The Turing Way on Version Control](way.netlify.app/reproducible-research/vcs.html)
+* [The Turing Way on Version Control first steps](https://the-turing-way.netlify.app/collaboration/github-novice/github-novice-firststeps.html)
 * [Lightning AI on Version Control](https://github.com/Lightning-AI/engineering-class/blob/main/ep06-git-basics/Ep06-ShowNotes.md)
 * [Imperial College London on Version Control](https://imperialcollegelondon.github.io/grad_school_git_course/)
 
